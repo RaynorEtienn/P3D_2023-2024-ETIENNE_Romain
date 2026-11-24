@@ -1,5 +1,6 @@
-Ce fichier est destiné aux élèves de 2A à Bx pour tricher en informatique.
+# C++ coursework, Institut d'Optique, 2023-24 (archived)
 
-Ne rendez pas la chose trop visible: changez le nom des variables, la typographie des documents, etc. => Vous avez l'habitude.
+3D programming labs (TD1 to TD3) and project in C++, with vertex and fragment shaders,
+second year at Institut d'Optique Graduate School (Bordeaux site).
 
-Cordialement, Romain
+Archived: kept as a record, not maintained.
